@@ -1,4 +1,4 @@
-# XHS Content Agent — 小红书 AI 内容助手
+# XHS Agent — 小红书 AI 内容助手
 
 基于 FastAPI + LangChain + OpenAI 构建的小红书内容挖掘与自动生成系统。支持从爬取竞品数据、分析爆款规律、AI 生成文案与配图，到一键发布至小红书的完整闭环。
 
